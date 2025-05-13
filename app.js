@@ -18,5 +18,5 @@ app.jsfunction generatePalette() {
   }
 }
 
-// Generate first palette on load
+// Generate first palette on page-load
 window.onload = generatePalette;
