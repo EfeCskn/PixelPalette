@@ -1,6 +1,6 @@
 # PixelPalette
 
-PixelPalette is a lightweight tool for generating, testing, and exporting pixel-perfect color combinations for frontend development and UI design.
+PixelPalette is a lightweight tool for generating, testing, and exporting pixel-perfect color combinations for frontend development and UI design. :)
 
 ### Features
 - 🎨 Live color preview and swatches
